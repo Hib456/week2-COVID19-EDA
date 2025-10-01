@@ -1,8 +1,4 @@
-Absolutely! Here’s a **ready-to-copy README** for your GitHub repository for the **Week 2 COVID-19 EDA project**. You can paste it directly and it’s formatted nicely in Markdown:
 
----
-
-# **NSP NEXUS – Week 2 Project**
 
 ## **Project Title**
 
@@ -85,6 +81,3 @@ The dataset is sourced from **Our World in Data (OWID)** and contains the follow
 3. Run all cells sequentially to generate outputs and visualizations.
 
 ---
-
-
-Do you want me to do that?
