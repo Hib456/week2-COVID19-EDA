@@ -1,90 +1,90 @@
-# week2-COVID19-EDA
-Project Title
+Absolutely! Here’s a **ready-to-copy README** for your GitHub repository for the **Week 2 COVID-19 EDA project**. You can paste it directly and it’s formatted nicely in Markdown:
+
+---
+
+# **NSP NEXUS – Week 2 Project**
+
+## **Project Title**
 
 Exploratory Data Analysis (EDA) on COVID-19 Global Cases Dataset
 
-Objective
+---
 
-The main objective of this project is to perform exploratory data analysis (EDA) on the COVID-19 dataset to:
+## **Objective**
 
-Understand global trends and patterns of COVID-19 cases and deaths.
+The main objective of this project is to perform **exploratory data analysis (EDA)** on the COVID-19 dataset to:
 
-Identify the most affected countries.
+* Understand global trends and patterns of COVID-19 cases and deaths.
+* Identify the most affected countries.
+* Visualize the data using plots for better understanding.
 
-Visualize the data using plots for better understanding.
+---
 
-Dataset Description
+## **Dataset Description**
 
-The dataset is sourced from Our World in Data (OWID) and contains the following columns:
+The dataset is sourced from **Our World in Data (OWID)** and contains the following columns:
 
-date: Reporting date
+* `date`: Reporting date
+* `location`: Country or region
+* `total_cases`: Cumulative confirmed COVID-19 cases
+* `total_deaths`: Cumulative COVID-19 deaths
 
-location: Country or region
+> Note: The dataset does not include total recovered cases.
 
-total_cases: Cumulative confirmed COVID-19 cases
+---
 
-total_deaths: Cumulative COVID-19 deaths
+## **Tools & Libraries Used**
 
-Note: The dataset does not include total recovered cases.
+* **Python**
+* **Jupyter Notebook / Google Colab**
+* **Libraries**: `pandas`, `matplotlib`, `seaborn`
 
-Tools & Libraries Used
+---
 
-Python
+## **Project Steps**
 
-Jupyter Notebook / Google Colab
+1. **Import Libraries and Dataset** – Load the CSV file and check the top rows.
+2. **Data Cleaning** – Removed duplicates and checked for null values.
+3. **Exploratory Data Analysis (EDA)** –
 
-Libraries: pandas, matplotlib, seaborn
+   * Show top 5 rows.
+   * Generate summary statistics.
+   * Count the number of countries in the dataset.
+   * Identify top 10 most affected countries.
+4. **Visualization** –
 
-Project Steps
+   * Line chart: Global confirmed cases over time.
+   * Bar chart: Top 10 countries with highest deaths.
+   * Pie chart: Global survivors vs deaths.
+5. **Observations and Conclusion** – Summarize key insights from the data.
 
-Import Libraries and Dataset – Load the CSV file and check the top rows.
+---
 
-Data Cleaning – Removed duplicates and checked for null values.
+## **Observations**
 
-Exploratory Data Analysis (EDA) –
+* Global confirmed cases increased sharply during multiple waves of COVID-19.
+* Countries like **United States, India, and Brazil** recorded the highest confirmed cases and deaths.
+* The majority of infected people survived globally.
+* Deaths, though a small percentage of total cases, represent a significant number worldwide.
 
-Show top 5 rows.
+---
 
-Generate summary statistics.
+## **Conclusion**
 
-Count the number of countries in the dataset.
+* COVID-19 spread rapidly worldwide, with multiple waves reflected in global case trends.
+* A small set of countries contributed a large share of total cases and deaths.
+* Most patients survived, but the **global death toll remains significant**.
+* Missing recovery data highlights inconsistencies in reporting across countries.
 
-Identify top 10 most affected countries.
+---
 
-Visualization –
+## **Instructions to Run the Project**
 
-Line chart: Global confirmed cases over time.
+1. Clone or download the repository.
+2. Open the **Jupyter Notebook (.ipynb)** in Jupyter or Google Colab.
+3. Run all cells sequentially to generate outputs and visualizations.
 
-Bar chart: Top 10 countries with highest deaths.
+---
 
-Pie chart: Global survivors vs deaths.
 
-Observations and Conclusion – Summarize key insights from the data.
-
-Observations
-
-Global confirmed cases increased sharply during multiple waves of COVID-19.
-
-Countries like United States, India, and Brazil recorded the highest confirmed cases and deaths.
-
-The majority of infected people survived globally.
-
-Deaths, though a small percentage of total cases, represent a significant number worldwide.
-
-Conclusion
-
-COVID-19 spread rapidly worldwide, with multiple waves reflected in global case trends.
-
-A small set of countries contributed a large share of total cases and deaths.
-
-Most patients survived, but the global death toll remains significant.
-
-Missing recovery data highlights inconsistencies in reporting across countries.
-
-Instructions to Run the Project
-
-Clone or download the repository.
-
-Open the Jupyter Notebook (.ipynb) in Jupyter or Google Colab.
-
-Run all cells sequentially to generate outputs and visualizations.
+Do you want me to do that?
